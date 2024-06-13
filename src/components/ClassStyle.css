@@ -1,0 +1,16 @@
+.navbarItems {
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: 600;
+    color: black;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.navbarItems.active {
+    background: rgb(157 188 152);
+    width: '100%';
+    color: black;
+    padding: 0.5em;
+}
